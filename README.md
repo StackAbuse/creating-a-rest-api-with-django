@@ -1,6 +1,6 @@
 # creating-a-rest-api-with-django
 
-# To run this project locally:  
+## Instructions to run this project locally:  
   
 1. Clone repository:  
   
@@ -34,4 +34,5 @@ $ python manage.py runserver
 ```   
 
 Thanks for reading.
+
 Article can be found here: 
