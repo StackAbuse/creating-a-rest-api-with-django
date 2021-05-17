@@ -35,4 +35,4 @@ $ python manage.py runserver
 
 Thanks for reading.
 
-Article can be found here: 
+Article can be found [here](https://stackabuse.com/creating-a-rest-api-in-python-with-django/):
