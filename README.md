@@ -35,4 +35,4 @@ $ python manage.py runserver
 
 Thanks for reading.
 
-Article can be found here: [Creating a REST API in Python with Django](https://stackabuse.com/creating-a-rest-api-in-python-with-django/):
+Article can be found here: [Creating a REST API in Python with Django](https://stackabuse.com/creating-a-rest-api-in-python-with-django/)
